@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.conteudo-form{
+    width: 600px;
+    padding: 8px 8px;
+}
+
+.titulo-form{
+    padding: 8px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5) ;
+    text-align: center;   
+}
+
+.linha{
+   margin: 5px;
+   max-width: 2px;
+}
+input[type=text] {
+    width: 200px;
+    height: 30px;
+    
+}
+
+input[type=number] {
+    width: 200px;
+    height: 30px;
+    
+}
+
+.botao{
+    padding-left:50px ;
+}
+
+input[type=button] {
+    color: white;
+    background-color: black;
+    width: 70px;
+    height: 35px;   
+    border-radius: 10px;
+}
+
+.tabela{
+    width: 100%;
+    border: 1px black solid;
+    border-collapse: collapse;
+}
+
+.tabela td, .tabela th{
+    padding: 16px;
+    border: 1px black solid;
+}
+
+.tabela th{
+    color: white;
+    background-color: black;
+}
+
+.tabela tr:nth-child(odd){
+    background-color: lightgray;
+}
+
+.tabela tr:hover{
+    background-color: rgb(241,241,190);
+}
+
+form > div {
+    padding-bottom: 20px;
+}
+
+.mensagem{
+    margin: 4px;
+    padding: 4px;
+    background-color: rgb(32, 143, 32);
+    color: white;
+    border-radius: 4px;
+    display: none;
+}

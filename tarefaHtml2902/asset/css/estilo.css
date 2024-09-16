@@ -1,0 +1,55 @@
+*{
+    padding:0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+ 
+.menu > ul > li{
+    list-style: none;
+    display: inline;
+    padding: 150px;
+    
+}
+
+.principal{
+    margin: 70px;
+    font-size: 100px;
+    background: url("../image/fotoPrincipal.png");
+    background-repeat: no-repeat;
+    background-position:center;
+    
+}
+.principal>p>a{
+    font-size: 25px;
+}
+
+.discover{
+    background:url("../image/traco.png") ;
+    margin: 75px;
+    font-size: 25px;
+    background-repeat: no-repeat;
+    
+}
+
+
+.menu-link:link{
+    color:black;
+    border-bottom: 1 #e5e5e54f solid;
+    text-decoration: none;
+    padding: 8px;
+
+}
+.menu-link:hover{
+    background-color: #000000;
+    border-radius: 30%;
+    color:#FFFFFF;
+    border-bottom:10px #FFFFFF ;
+   
+}
+.menu-link:active{
+    color:#413f3fe5;
+    border-bottom: 2px #413f3fe5 solid;
+
+
+}

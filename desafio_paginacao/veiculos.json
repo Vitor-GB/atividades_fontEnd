@@ -1,0 +1,318 @@
+{
+    "veiculos": [
+      {
+        "marca": "Toyota",
+        "modelo": "Corolla",
+        "ano": 2020,
+        "cor": "Prata",
+        "preco": 90000
+      },
+      {
+        "marca": "Honda",
+        "modelo": "Civic",
+        "ano": 2019,
+        "cor": "Preto",
+        "preco": 85000
+      },
+      {
+        "marca": "Ford",
+        "modelo": "Mustang",
+        "ano": 2021,
+        "cor": "Vermelho",
+        "preco": 300000
+      },
+      {
+        "marca": "Chevrolet",
+        "modelo": "Onix",
+        "ano": 2022,
+        "cor": "Branco",
+        "preco": 75000
+      },
+      {
+        "marca": "Volkswagen",
+        "modelo": "Golf",
+        "ano": 2018,
+        "cor": "Azul",
+        "preco": 95000
+      },
+      {
+        "marca": "Nissan",
+        "modelo": "Sentra",
+        "ano": 2020,
+        "cor": "Cinza",
+        "preco": 90000
+      },
+      {
+        "marca": "Hyundai",
+        "modelo": "Elantra",
+        "ano": 2019,
+        "cor": "Vermelho",
+        "preco": 92000
+      },
+      {
+        "marca": "BMW",
+        "modelo": "X5",
+        "ano": 2021,
+        "cor": "Preto",
+        "preco": 450000
+      },
+      {
+        "marca": "Mercedes-Benz",
+        "modelo": "C-Class",
+        "ano": 2020,
+        "cor": "Branco",
+        "preco": 380000
+      },
+      {
+        "marca": "Audi",
+        "modelo": "A4",
+        "ano": 2019,
+        "cor": "Prata",
+        "preco": 210000
+      },
+      {
+        "marca": "Jeep",
+        "modelo": "Compass",
+        "ano": 2022,
+        "cor": "Verde",
+        "preco": 190000
+      },
+      {
+        "marca": "Kia",
+        "modelo": "Sportage",
+        "ano": 2020,
+        "cor": "Cinza",
+        "preco": 125000
+      },
+      {
+        "marca": "Mazda",
+        "modelo": "CX-5",
+        "ano": 2021,
+        "cor": "Branco",
+        "preco": 150000
+      },
+      {
+        "marca": "Tesla",
+        "modelo": "Model 3",
+        "ano": 2021,
+        "cor": "Azul",
+        "preco": 350000
+      },
+      {
+        "marca": "Subaru",
+        "modelo": "Outback",
+        "ano": 2019,
+        "cor": "Verde",
+        "preco": 140000
+      },
+      {
+        "marca": "Volvo",
+        "modelo": "XC90",
+        "ano": 2021,
+        "cor": "Preto",
+        "preco": 480000
+      },
+      {
+        "marca": "Porsche",
+        "modelo": "Cayenne",
+        "ano": 2020,
+        "cor": "Vermelho",
+        "preco": 600000
+      },
+      {
+        "marca": "Land Rover",
+        "modelo": "Discovery",
+        "ano": 2021,
+        "cor": "Cinza",
+        "preco": 550000
+      },
+      {
+        "marca": "Ferrari",
+        "modelo": "488 GTB",
+        "ano": 2019,
+        "cor": "Vermelho",
+        "preco": 2500000
+      },
+      {
+        "marca": "Lamborghini",
+        "modelo": "Huracan",
+        "ano": 2020,
+        "cor": "Amarelo",
+        "preco": 3000000
+      },
+      {
+        "marca": "Peugeot",
+        "modelo": "208",
+        "ano": 2021,
+        "cor": "Branco",
+        "preco": 70000
+      },
+      {
+        "marca": "Renault",
+        "modelo": "Duster",
+        "ano": 2019,
+        "cor": "Prata",
+        "preco": 80000
+      },
+      {
+        "marca": "Fiat",
+        "modelo": "Toro",
+        "ano": 2022,
+        "cor": "Vermelho",
+        "preco": 110000
+      },
+      {
+        "marca": "Mitsubishi",
+        "modelo": "Outlander",
+        "ano": 2020,
+        "cor": "Preto",
+        "preco": 160000
+      },
+      {
+        "marca": "Suzuki",
+        "modelo": "Jimny",
+        "ano": 2021,
+        "cor": "Verde",
+        "preco": 130000
+      },
+      {
+        "marca": "Alfa Romeo",
+        "modelo": "Giulia",
+        "ano": 2019,
+        "cor": "Preto",
+        "preco": 250000
+      },
+      {
+        "marca": "Jaguar",
+        "modelo": "F-Type",
+        "ano": 2020,
+        "cor": "Vermelho",
+        "preco": 450000
+      },
+      {
+        "marca": "Mini",
+        "modelo": "Cooper",
+        "ano": 2018,
+        "cor": "Amarelo",
+        "preco": 100000
+      },
+      {
+        "marca": "Chevrolet",
+        "modelo": "Camaro",
+        "ano": 2021,
+        "cor": "Amarelo",
+        "preco": 320000
+      },
+      {
+        "marca": "Ford",
+        "modelo": "F-150",
+        "ano": 2020,
+        "cor": "Prata",
+        "preco": 280000
+      },
+      {
+        "marca": "Honda",
+        "modelo": "Accord",
+        "ano": 2019,
+        "cor": "Branco",
+        "preco": 160000
+      },
+      {
+        "marca": "Toyota",
+        "modelo": "Hilux",
+        "ano": 2021,
+        "cor": "Cinza",
+        "preco": 200000
+      },
+      {
+        "marca": "Tesla",
+        "modelo": "Model S",
+        "ano": 2020,
+        "cor": "Branco",
+        "preco": 500000
+      },
+      {
+        "marca": "Volkswagen",
+        "modelo": "Tiguan",
+        "ano": 2019,
+        "cor": "Preto",
+        "preco": 150000
+      },
+      {
+        "marca": "Hyundai",
+        "modelo": "Tucson",
+        "ano": 2020,
+        "cor": "Vermelho",
+        "preco": 140000
+      },
+      {
+        "marca": "Nissan",
+        "modelo": "Kicks",
+        "ano": 2021,
+        "cor": "Azul",
+        "preco": 120000
+      },
+      {
+        "marca": "BMW",
+        "modelo": "3 Series",
+        "ano": 2019,
+        "cor": "Preto",
+        "preco": 300000
+      },
+      {
+        "marca": "Mercedes-Benz",
+        "modelo": "GLC",
+        "ano": 2021,
+        "cor": "Branco",
+        "preco": 400000
+      },
+      {
+        "marca": "Audi",
+        "modelo": "Q5",
+        "ano": 2020,
+        "cor": "Prata",
+        "preco": 370000
+      },
+      {
+        "marca": "Volvo",
+        "modelo": "S60",
+        "ano": 2019,
+        "cor": "Preto",
+        "preco": 250000
+      },
+      {
+        "marca": "Porsche",
+        "modelo": "Macan",
+        "ano": 2021,
+        "cor": "Vermelho",
+        "preco": 550000
+      },
+      {
+        "marca": "Land Rover",
+        "modelo": "Range Rover",
+        "ano": 2020,
+        "cor": "Cinza",
+        "preco": 800000
+      },
+      {
+        "marca": "Ferrari",
+        "modelo": "Portofino",
+        "ano": 2021,
+        "cor": "Vermelho",
+        "preco": 2500000
+      },
+      {
+        "marca": "Lamborghini",
+        "modelo": "Aventador",
+        "ano": 2020,
+        "cor": "Amarelo",
+        "preco": 4000000
+      },
+      {
+        "marca": "Mazda",
+        "modelo": "MX-5"
+       
+      }
+      
+    ]
+}

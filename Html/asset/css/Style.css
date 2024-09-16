@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+
+:root{
+    --cor-1:#274156;
+    --cor-2:#1C6E8C;
+    --cor-3:#605856;
+    --cor-4:#D0CCD0;
+    --cor-5:#FBFCFF;
+    --cor-6:#000000;
+}
+
+body{
+    margin: 50px;
+    border: 1px solid var(--cor-6);
+    max-width: 360px;
+}
+
+div{
+    max-width: 360px;
+}
+
+.menu{
+    background-color: var(--cor-2);
+    padding: 10px;
+    color: var(--cor-5);
+}
+
+input[type=text]{
+    width: 320px;
+    height: 40px;
+}
+
+input[type=button]{
+    width: 320px;
+    height: 60px;
+    font-size: 20px;
+    background-color: var(--cor-1);
+    color: var(--cor-5);
+}
+
+.atendimento>textarea{
+    width: 320px;
+    height: 80px;
+}
+
+.conteudo>div{
+    padding: 20px;
+}
+
+select{
+    width: 320px;
+    height: 40px;
+}

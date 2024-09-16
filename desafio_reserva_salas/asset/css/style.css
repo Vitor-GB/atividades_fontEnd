@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.conteudo-form{
+    width: 600px;
+    padding: 8px 8px;
+}
+
+.titulo-form{
+    padding: 8px;
+    color: white;
+    background-color: royalblue;    
+}
+
+input[type=text] {
+    width: 585px;
+    height: 30px;
+    
+}
+
+input[type=submit] {
+    color: white;
+    background-color: royalblue;
+    width: 70px;
+    height: 40px;   
+    border-radius: 10px;
+}
+
+.tabela{
+    width: 100%;
+    border: 1px black solid;
+    border-collapse: collapse;
+}
+
+.tabela td, .tabela th{
+    padding: 16px;
+    border: 1px black solid;
+}
+
+.tabela th{
+    color: white;
+    background-color: royalblue;
+}
+
+.tabela tr:nth-child(odd){
+    background-color: lightgray;
+}
+
+.tabela tr:hover{
+    background-color: rgb(241,241,190);
+}
+
+#sala{
+    width: 585px;
+    height: 30px;
+}
+#data_inicial{
+    width: 585px;
+    height: 30px;
+}
+
+#data_final{
+    width: 585px;
+    height: 30px;
+}
+
+form > div {
+    padding-bottom: 20px;
+}

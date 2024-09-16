@@ -1,0 +1,119 @@
+*{
+    padding:0px;
+    margin: 0px;
+    box-sizing: border-box;
+}   
+
+
+.menu{
+    text-align: center;
+    background-color: #e5e5e54f;
+    color:#e5e5e54f;
+    padding: 8px;
+}
+.menu > ul > li{
+    list-style: none;
+    display: inline;
+}
+
+
+.apresentacao {
+    text-align: center;
+    padding-top: 150px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+
+header{
+    background:url("../image/fundo_cabecalho.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+    
+    
+}
+
+
+.secao{
+    margin: 10px;
+}
+
+.secao>table{
+    padding-top: 30px;
+}
+
+.secao>p{
+    padding-top: 30px;
+}
+
+
+.apresentacao>h1{
+    background-color:#ffd00090 ;
+    padding: 50px;
+    font-size: 50px;
+    
+    
+}
+.apresentacao>h2{
+    background-color:#ffd00090 ;
+    
+    padding: 50px;
+    margin-top: 25px;
+    margin-right: 500px;
+    margin-left: 400px;
+    font-size: 25px;
+   
+}
+
+.rodape{
+    background-color:#2D3748;
+    
+}
+
+.mapa>p{
+    padding: 15px;
+}
+.rodape>p{
+    padding: 20px
+    
+}
+
+
+.mapa{
+    background: url("../image/mapa.png");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.rodape>img{
+    margin-right: 30px;
+}
+
+
+
+.menu-link:link{
+    color:black;
+    border-bottom: 1 #e5e5e54f solid;
+    text-decoration: none;
+    padding: 8px;
+
+}
+.menu-link:hover{
+    background-color: #E74C3C;
+    border-radius: 15%;
+    color:#FFFFFF;
+    border-bottom:10px #FFFFFF ;
+   
+}
+.menu-link:active{
+    color:#413f3fe5;
+    border-bottom: 2px #413f3fe5 solid;
+
+
+}

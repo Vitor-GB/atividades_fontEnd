@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+ :root{
+    --cor-um:#253237;
+    --cor-dois:#949494;
+    --cor-tres:#C4C4C4;
+    --cor-quatro:#F1F1F1;
+
+ }
+ .logo{
+    display:flex;
+ }
+
+ .cabecalho>ul{
+    list-style: none;
+  
+
+ }
+ .cabecalho>ul>li{
+    display: inline;
+
+ }
+ .cabecalho{
+    display: flex;
+    justify-content: right;
+
+ }

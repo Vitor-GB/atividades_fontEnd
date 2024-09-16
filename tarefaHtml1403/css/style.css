@@ -1,0 +1,71 @@
+*{
+    padding:0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+:root{
+    --cor-primaria:#1B4436;
+    --cor-secundaria:#50AA5A;
+    --cor-tercearia:#FFFFFF;
+}
+.menu>ul{
+   list-style: none;
+    margin-left: 30px;
+   
+}
+.menu{
+    padding: 15px;
+    background-color:var(--cor-primaria);
+}
+.menu>ul>li{
+    display: inline;
+    color:var(--cor-tercearia);
+    padding: 15px;
+}
+
+.apresentacao>h1{
+    background-color:var(--cor-primaria);
+    color:var(--cor-tercearia)
+}
+
+.apresentacao{
+    background: url("../image/image 9.png");
+    height: 400px;
+    background-repeat: no-repeat; 
+    background-size: 100%;   
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+ 
+}
+.cards{
+    
+    flex-wrap: wrap;
+    gap: 8px;
+    margin:8px;
+}
+.card{
+    border: 1px solid var(--cor-secundaria);
+    border-radius: 8px;
+    width: 350px;
+    display:flex;
+}
+
+.card_uva{
+    background-image: url("../image/uva.png");
+    height: 200px;
+    text-align: center;
+    padding: 32px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.saibaMais{
+    background-color: var(--cor-secundaria);
+    color: var(--cor-tercearia);
+    
+}
+.card>p{
+    line-height: 1.20;
+}

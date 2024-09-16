@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0PX;
+    box-sizing: border-box;
+}
+:root{
+    --cor-1:#000000;
+    --cor-2:#FFFFFF;
+}
+.menu{
+background-color: var(--cor-1);
+padding: 30px;
+color: var(--cor-2);
+}
+
+.menu>ul{
+    list-style: none;
+    margin: 10px;
+
+}
+.menu>ul>li{
+    display: inline;
+    padding: 30px;
+    
+}
+.menu>ul>li>a{
+    color:var(--cor-2);
+    text-decoration: none;
+    padding: 10px;
+}
